@@ -64,7 +64,7 @@ Listas simples. Sin cuenta. Sin anuncios. Sin rastreo.
 - Los datos se guardan en tu dispositivo
 - Sin anuncios
 - Sin rastreo
-
+  
 ### Enlaces legales
 - Politica de privacidad: [Ver](https://raphaelmichoud.github.io/magic-list/privacy.html)
 - Terminos de uso: [Ver](https://raphaelmichoud.github.io/magic-list/terms.html)
